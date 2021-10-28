@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mobitopp-visualization/static/css/main.ddba5ec9.chunk.css",
+    "main.js": "/mobitopp-visualization/static/js/main.66d2baa3.chunk.js",
+    "main.js.map": "/mobitopp-visualization/static/js/main.66d2baa3.chunk.js.map",
+    "runtime-main.js": "/mobitopp-visualization/static/js/runtime-main.07b85b0e.js",
+    "runtime-main.js.map": "/mobitopp-visualization/static/js/runtime-main.07b85b0e.js.map",
+    "static/js/2.2d9d6251.chunk.js": "/mobitopp-visualization/static/js/2.2d9d6251.chunk.js",
+    "static/js/2.2d9d6251.chunk.js.map": "/mobitopp-visualization/static/js/2.2d9d6251.chunk.js.map",
+    "static/js/3.6ea37d46.chunk.js": "/mobitopp-visualization/static/js/3.6ea37d46.chunk.js",
+    "static/js/3.6ea37d46.chunk.js.map": "/mobitopp-visualization/static/js/3.6ea37d46.chunk.js.map",
+    "index.html": "/mobitopp-visualization/index.html",
+    "static/css/main.ddba5ec9.chunk.css.map": "/mobitopp-visualization/static/css/main.ddba5ec9.chunk.css.map",
+    "static/js/2.2d9d6251.chunk.js.LICENSE.txt": "/mobitopp-visualization/static/js/2.2d9d6251.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07b85b0e.js",
+    "static/js/2.2d9d6251.chunk.js",
+    "static/css/main.ddba5ec9.chunk.css",
+    "static/js/main.66d2baa3.chunk.js"
+  ]
+}
